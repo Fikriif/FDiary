@@ -1,5 +1,5 @@
-import CreateDiaryForm from "@/components/auth/CreateDiaryForm";
-import Wrapper from "@/components/global/Wrapper";
+import CreateDiaryForm from "../components/auth/CreateDiaryForm";
+import Wrapper from "../components/global/Wrapper";
 import React from "react";
 
 const page = (): React.ReactElement => {

@@ -1,5 +1,5 @@
-import CardDiaries from "@/components/global/(diary)/CardDiaries";
-import Wrapper from "@/components/global/Wrapper";
+import CardDiaries from "@/app/components/global/(diary)/CardDiaries";
+import Wrapper from "@/app/components/global/Wrapper";
 
 export const revalidate = 0;
 

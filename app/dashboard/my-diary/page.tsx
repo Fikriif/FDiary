@@ -1,6 +1,6 @@
 import React from "react";
-import PostContent from "@/components/global/(diary)/PostContent";
-import Wrapper from "@/components/global/Wrapper";
+import PostContent from "@/app/components/global/(diary)/PostContent";
+import Wrapper from "@/app/components/global/Wrapper";
 import { supabase } from "@/utils/supabase";
 import { getUserData } from "@/utils/clerk";
 

@@ -1,6 +1,6 @@
-import CreateCommentForm from "@/components/auth/CreateCommentForm";
-import CommentList from "@/components/global/(diary)/CommentList";
-import Wrapper from "@/components/global/Wrapper";
+import CreateCommentForm from "@/app/components/auth/CreateCommentForm";
+import CommentList from "@/app/components/global/(diary)/CommentList";
+import Wrapper from "@/app/components/global/Wrapper";
 import { supabase } from "@/utils/supabase";
 import Image from "next/image";
 import React from "react";

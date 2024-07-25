@@ -1,4 +1,4 @@
-import Wrapper from "@/components/global/Wrapper";
+import Wrapper from "@/app/components/global/Wrapper";
 import React from "react";
 
 const loading = (): React.ReactElement => {
